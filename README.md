@@ -1,2 +1,2 @@
 # Challenges-and-Hackathons
-Includes a oompilation of my programs and code from Hackaton and Coding Challenges
+Includes a compilation of my programs and code from Hackaton and Coding Challenges
